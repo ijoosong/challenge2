@@ -1,0 +1,6 @@
+flask
+flask_restful
+flask_script
+flask_migrate
+flask_sqlalchemy
+psycopg2
